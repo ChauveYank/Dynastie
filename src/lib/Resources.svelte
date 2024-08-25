@@ -1,32 +1,32 @@
-//<script>
-//    import List, { Item, Graphic, Separator, Text } from '@smui/list';
-//import { dynasty } from './utils/helper';
-
-//    const today = new Date();
-//    const resources = [
-//        {
-//            name: "FTN Fantasy",
-//            url: "https://www.ftnfantasy.com/nfl",
-//            icon: "insights",
-            premium: true,
-            separator: true,
-        },
-        {
-            name: "The Fantasy Footballers",
-            url: "https://www.thefantasyfootballers.com/",
-            icon: "podcasts",
-            premium: true,
-            separator: true,
-        },
-        {
-            name: "FantasyPros Dynasty Trade Value Chart",
-            url: `https://www.fantasypros.com/${today.getFullYear()}/${today.getMonth() + 1}/fantasy-football-rankings-dynasty-trade-value-chart-${today.toLocaleString('default', { month: 'long' }).toLowerCase()}-${today.getFullYear()}-update/`,
-            icon: "assessment",
-            premium: false,
-            separator: true,
-            dynastyOnly: true,
-        },
-        {
+// <script>
+//     import List, { Item, Graphic, Separator, Text } from '@smui/list';
+// import { dynasty } from './utils/helper';
+// 
+//     const today = new Date();
+//     const resources = [
+//         {
+//             name: "FTN Fantasy",
+//             url: "https://www.ftnfantasy.com/nfl",
+//             icon: "insights",
+//             premium: true,
+//             separator: true,
+//         },
+//         {
+//             name: "The Fantasy Footballers",
+//             url: "https://www.thefantasyfootballers.com/",
+//             icon: "podcasts",
+//             premium: true,
+//             separator: true,
+//         },
+//         {
+//             name: "FantasyPros Dynasty Trade Value Chart",
+//             url: `https://www.fantasypros.com/${today.getFullYear()}/${today.getMonth() + 1}/fantasy-football-rankings-dynasty-trade-value-chart-${today.toLocaleString('default', { month: 'long' }).toLowerCase()}-${today.getFullYear()}-update/`,
+//             icon: "assessment",
+//             premium: false,
+//             separator: true,
+//             dynastyOnly: true,
+//         },
+//         {
             name: "DynastyProcess Trade Calculator",
             url: "https://apps.dynastyprocess.com/calculator/",
             icon: "calculate",
