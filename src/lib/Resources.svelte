@@ -1,13 +1,13 @@
 //<script>
-    import List, { Item, Graphic, Separator, Text } from '@smui/list';
-import { dynasty } from './utils/helper';
+//    import List, { Item, Graphic, Separator, Text } from '@smui/list';
+//import { dynasty } from './utils/helper';
 
-    const today = new Date();
-    const resources = [
-        {
-            name: "FTN Fantasy",
-            url: "https://www.ftnfantasy.com/nfl",
-            icon: "insights",
+//    const today = new Date();
+//    const resources = [
+//        {
+//            name: "FTN Fantasy",
+//            url: "https://www.ftnfantasy.com/nfl",
+//            icon: "insights",
             premium: true,
             separator: true,
         },
