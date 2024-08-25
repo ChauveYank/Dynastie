@@ -1,4 +1,4 @@
-<script>
+//<script>
     import List, { Item, Graphic, Separator, Text } from '@smui/list';
 import { dynasty } from './utils/helper';
 
